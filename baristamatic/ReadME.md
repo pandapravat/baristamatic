@@ -1,3 +1,7 @@
+Requirements
+------------
+Check pdf in src/main/resources directory
+
 compiling the program (*nix based)
 ---------------------
 1. Navigate to this location<br>
