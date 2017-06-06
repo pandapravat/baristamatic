@@ -1,6 +1,6 @@
 Requirements
 ------------
-Check pdf in src/main/resources directory
+Check pdf in this directory
 
 compiling the program (*nix based)
 ---------------------
